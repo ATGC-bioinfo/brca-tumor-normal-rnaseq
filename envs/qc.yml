@@ -1,0 +1,8 @@
+name: bc-qc
+channels: [conda-forge, bioconda]
+dependencies:
+  - sra-tools=3.2.1
+  - pigz=2.8
+  - fastqc=0.12.1
+  - fastp=0.24.0
+  - multiqc=1.33

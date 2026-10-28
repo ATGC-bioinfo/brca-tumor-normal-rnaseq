@@ -1,0 +1,7 @@
+sample_id,type,fastq1,fastq2,srr,patient_id
+N1,normal,data/fastq/N1_R1.fastq.gz,data/fastq/N1_R2.fastq.gz,SRR41219225,P1
+N2,normal,data/fastq/N2_R1.fastq.gz,data/fastq/N2_R2.fastq.gz,SRR41219226,P2
+N3,normal,data/fastq/N3_R1.fastq.gz,data/fastq/N3_R2.fastq.gz,SRR41219227,P3
+T1,tumor,data/fastq/T1_R1.fastq.gz,data/fastq/T1_R2.fastq.gz,SRR41219228,P1
+T2,tumor,data/fastq/T2_R1.fastq.gz,data/fastq/T2_R2.fastq.gz,SRR41219229,P2
+T3,tumor,data/fastq/T3_R1.fastq.gz,data/fastq/T3_R2.fastq.gz,SRR41219230,P3

@@ -1,0 +1,11 @@
+name: bc-somatic
+channels: [conda-forge, bioconda]
+dependencies:
+  - gatk4=4.6.2.0
+  - samtools=1.24
+  - htslib=1.24
+  - snpeff=5.4.0c
+  - snpsift=5.4.0c
+  - python=3.10
+  - matplotlib-base
+  - numpy
